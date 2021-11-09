@@ -1,0 +1,2 @@
+# Magazine-Subscription-Behavior
+A magazine company is trying to understand last year’s decline in subscriptions. With people spending more time at home, they thought people would be spending more time in reading.  From the given dataset, we will analyze the parameters that are working in favor of magazine subscription and the parameters that are not working. To achieve the result, we will use data cleansing technique, build a logistic and SVM model to predict subscription behavior and the variables that are significant, their business impact.
